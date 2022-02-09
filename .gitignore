@@ -1,0 +1,34 @@
+# HW
+Hardware/*.PrjPcbStructure
+
+Hardware/__Previews
+Hardware/History
+Hardware/Project Logs for TINY_USB2CAN/
+Hardware/Project Outputs for TINY_USB2CAN/
+
+# FW
+Firmware/EWARM/*.ewt
+Firmware/EWARM/*.dep
+Firmware/EWARM/settings/
+Firmware/EWARM/TINY_USB2CAN/
+
+Firmware/Makefile/TINY_USB2CAN/
+
+# SW
+Software/*/*.user
+Software/*/*.cmd
+
+Software/.vs
+Software/*/bin/
+Software/*/obj/
+
+# EX
+Examples/.vs
+Examples/*/*.user
+Examples/*/*.cmd
+
+Examples/*/bin/
+Examples/*/obj/
+
+# OTHER
+.vscode
