@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TinyC", "TinyC\TinyC.vcxproj", "{A416275D-FF9B-4D7C-8DAC-97FDB543FB57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinySharp", "TinySharp\TinySharp.csproj", "{E2ACC18D-33AC-4617-AC4B-F9143715E40A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A416275D-FF9B-4D7C-8DAC-97FDB543FB57}.Debug|x86.ActiveCfg = Debug|Win32
+		{A416275D-FF9B-4D7C-8DAC-97FDB543FB57}.Debug|x86.Build.0 = Debug|Win32
+		{A416275D-FF9B-4D7C-8DAC-97FDB543FB57}.Release|x86.ActiveCfg = Release|Win32
+		{A416275D-FF9B-4D7C-8DAC-97FDB543FB57}.Release|x86.Build.0 = Release|Win32
+		{E2ACC18D-33AC-4617-AC4B-F9143715E40A}.Debug|x86.ActiveCfg = Debug|x86
+		{E2ACC18D-33AC-4617-AC4B-F9143715E40A}.Debug|x86.Build.0 = Debug|x86
+		{E2ACC18D-33AC-4617-AC4B-F9143715E40A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3091FAE4-8BAA-4368-B30C-8DE1458A390A}
+	EndGlobalSection
+EndGlobal
