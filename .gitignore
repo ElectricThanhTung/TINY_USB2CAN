@@ -14,6 +14,14 @@ Firmware/EWARM/TINY_USB2CAN/
 
 Firmware/Makefile/TINY_USB2CAN/
 
+Firmware/MDK-ARM/*.inp
+Firmware/MDK-ARM/*.Bak
+Firmware/MDK-ARM/*.uvguix.*
+Firmware/MDK-ARM/*.uvoptx
+Firmware/MDK-ARM/RTE
+Firmware/MDK-ARM/DebugConfig
+Firmware/MDK-ARM/TINY_USB2CAN
+
 # SW
 Software/*/*.user
 Software/*/*.cmd
